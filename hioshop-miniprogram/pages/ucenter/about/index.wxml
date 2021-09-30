@@ -1,0 +1,16 @@
+<view class="container">
+    <view class='about-wrap'>
+        <view class='title'>渝飨土产</view>
+        <view class='content'>
+            方便实惠的重庆本地土产
+        </view>
+        <view class="line"></view>
+        <view class="content">客服热线</view>
+        <view class="content">028-48460868</view>
+        <view class="line"></view>
+        <view class='content'>
+            更多信息请关注公众号：XXXXXXXXXXX
+        </view>
+    </view>
+    <!-- <ad unit-id="adunit-1776b4f8f2217197" ad-type="video" ad-theme="white"></ad> -->
+</view>
